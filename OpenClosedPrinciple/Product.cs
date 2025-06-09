@@ -30,3 +30,4 @@ namespace OpenClosedPrinciple
             return 0;
         }
     }
+}
