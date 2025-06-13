@@ -73,10 +73,10 @@ OpenClosedPrinciple/
 ├── ProductType2.cs    // 10% discount
 ├── ProductType3.cs    // 15% discount
 ```
-
-## <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="35" height="35" /></a> Views
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoheilSadeghii.OpenClosedPrinciple)
 ---
 Thanks for checking out this project!  
 If you found it helpful, feel free to <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="15" height="15" /></a> the repo or share it with others.  
 Contributions, feedback, and suggestions are always welcome!
+<br>
+<br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoheilSadeghii.OpenClosedPrinciple)
