@@ -1,4 +1,4 @@
-# Open/Closed Principle (OCP) - SOLID Practice in C#
+# Open/Closed Principle
 
 <!--## 📘 What is OCP? -->
 
