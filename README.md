@@ -11,7 +11,7 @@ This helps keep the code **safe from bugs** and **easy to maintain** when new re
 
 ---
 
-## <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="35" height="35" /></a> Why is OCP Important?
+## <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Exploding%20Head.webp" alt="Exploding Head" width="35" height="35" /></a> Why is OCP Important?
 
 - Prevents breaking existing code when adding new features
 - Makes the system more **flexible**, **scalable**, and **stable**
